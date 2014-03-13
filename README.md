@@ -6,12 +6,12 @@ tok
 installation
 ------
 
-    go get github.com/quexer/tok
+    go get github.com/daocren/tok
 
 usage
 -----
 
-    import "github.com/quexer/tok"
+    import "github.com/daocren/tok"
 
 
 TBD
